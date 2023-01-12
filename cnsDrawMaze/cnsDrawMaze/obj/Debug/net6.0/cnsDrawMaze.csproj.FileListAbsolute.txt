@@ -1,0 +1,30 @@
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.exe
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.deps.json
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.runtimeconfig.json
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.dll
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.pdb
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.csproj.AssemblyReference.cache
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.AssemblyInfoInputs.cache
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.AssemblyInfo.cs
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.csproj.CoreCompileInputs.cache
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.dll
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\refint\cnsDrawMaze.dll
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.pdb
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.genruntimeconfig.cache
+C:\GITHUB\Homework C#\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\ref\cnsDrawMaze.dll
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.exe
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.dll
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\bin\Debug\net6.0\cnsDrawMaze.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.dll
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\refint\cnsDrawMaze.dll
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\cnsDrawMaze.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\cnsDrawMaze (2)\cnsDrawMaze\cnsDrawMaze\obj\Debug\net6.0\ref\cnsDrawMaze.dll
